@@ -1,0 +1,27 @@
+body{
+	font-family:"Times New Roman", Times, serif;
+	text-align:center;
+	font-size:50px;
+}
+h1{
+	color:rgb(153, 0, 51);
+}
+ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.toolbar{
+	background-color:rgb(153, 0, 51);
+	overflow: hidden;
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px 652.5px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+	
+   
