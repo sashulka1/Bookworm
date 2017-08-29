@@ -12,7 +12,7 @@ h1{
 	overflow: hidden;
     float: left;
     display: inline-block;
-	padding:20px 342px;
+	padding: 20px 325px;
 	
 }
 .topnav a {
@@ -41,3 +41,5 @@ html{
     text-decoration: none;
     border-radius: 50%;
 }
+p {
+	font-size:80px;
