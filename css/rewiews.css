@@ -42,3 +42,14 @@ html{
     text-decoration: none;
     border-radius: 50%;
 }
+.col-sm-4 img{
+	width:auto;
+	height:auto;
+	max-height:300px;
+	max-width:300px;
+}
+img{
+	width:auto;
+	height:auto;
+	max-width:100%;
+}
