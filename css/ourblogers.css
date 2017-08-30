@@ -1,0 +1,45 @@
+h1 {
+	font-size: 150 px;
+	color:rgb(153, 0, 51);
+	}
+h2 {
+	font-size: bold
+}
+body {
+	font-family:"Times New Roman", Times, serif;
+	text-align:center;
+	font-size:50px;
+}
+	
+.toolbar{
+	background-color:rgb(153, 0, 51);
+	overflow: hidden;
+    float: left;
+    display: inline-block;
+	padding:20px 342px;
+}
+.toolbar a {
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+    text-align: center;
+}
+
+.toolbar a:hover {
+    background-color:gray;
+    color: black;  
+}
+a{
+	color:black;
+}
+html{
+	background-image:
+}
+.fa{
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
