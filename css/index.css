@@ -46,3 +46,13 @@ html{
     border-radius: 50%;
 }
 
+img{
+	width:auto;
+	height:auto;
+	max-width:100%;
+}
+.col-sm-2 img{
+	width:auto;
+	height:auto;
+	max-height:400px;
+	max-width:400px;

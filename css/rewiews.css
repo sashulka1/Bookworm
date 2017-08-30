@@ -1,7 +1,7 @@
 *{
 	font-family:"Times New Roman", Times, serif;
 	text-align:center;
-	font-size:10px;
+	font-size:19px;
 }
 h1{
 	font-size: 30 px;
@@ -52,7 +52,4 @@ img{
 	width:auto;
 	height:auto;
 	max-width:100%;
-}
-col-sm-8{
-	text-align:auto;
 }
