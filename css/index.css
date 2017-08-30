@@ -1,35 +1,23 @@
 *{
 	font-family:"Times New Roman", Times, serif;
 	text-align:center;
-	font-size:50px;
+	font-size:19px;
 }
 h1{
 	font-size: 150 px;
 	color:rgb(153, 0, 51);
 }
-h1{
-	color:rgb(153, 0, 51);
-}
 
-.toolbar{
-	background-color:rgb(153, 0, 51);
-	overflow: hidden;
-    float: left;
-    display: inline-block;
-	padding: 20px 325px;
-	
-}
-.toolbar a {
-    text-decoration: none;
-    font-size: 17px;
-    color: black;
-    text-align: center;
     
 }
 
-.toolbar a:hover {
-    background-color:gray;
-    color: black;  
+.navbar {
+    background-color:rgb(153, 0, 51);
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+    text-align: center;	
 }
 a{
 	color:black;
@@ -51,8 +39,15 @@ img{
 	height:auto;
 	max-width:100%;
 }
-.col-sm-2 img{
+.col-sm-3 img{
 	width:auto;
 	height:auto;
 	max-height:400px;
 	max-width:400px;
+}
+.col-lg-3 img{
+	width:auto;
+	height:auto;
+	max-height:400px;
+	max-width:400px;
+}
