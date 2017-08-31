@@ -5,10 +5,10 @@ h1 {
 h2 {
 	font-size: bold
 }
-body {
+* {
 	font-family:"Times New Roman", Times, serif;
 	text-align:center;
-	font-size:50px;
+	font-size:19px;
 }
 	
 .toolbar{
@@ -51,4 +51,7 @@ p{
 	height:auto;
 	max-height:400px;
 	max-width:400px;
+}
+form{
+	font-size:20px;
 }
