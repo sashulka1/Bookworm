@@ -4,3 +4,6 @@
 	max-width:400px;
 	max-height:400px;
 }
+.container-fluid {
+	background-color:rgb(194, 179, 163);
+}

@@ -13,3 +13,6 @@
     text-decoration: none;
     border-radius: 50%;
 }
+.container-fluid {
+	background-color:rgb(194, 179, 163);
+}

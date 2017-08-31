@@ -60,4 +60,7 @@ img{
 	height:auto;
 	max-width:100%;
 }
+.container-fluid {
+	background-color:rgb(194, 179, 163);
+}
 	
