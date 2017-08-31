@@ -42,3 +42,11 @@ html{
     text-decoration: none;
     border-radius: 50%;
 }
+footer {
+	background-color:rgb(223, 191, 159)
+}
+img{
+	width:auto;
+	height:auto;
+	max-width:100%;
+}
